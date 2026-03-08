@@ -8,3 +8,12 @@ else
   puts "Not quite"
 end
 
+# Create an array to store 4 island fruits. Then change the second fruit to a vegetable and print the array on one line.
+
+fruits = ["mango", "banana", "papaya", "calamansi"]
+
+pp fruits
+
+fruits[1] = "carrot"
+
+pp fruits
