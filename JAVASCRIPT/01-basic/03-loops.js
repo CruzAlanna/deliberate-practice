@@ -1,8 +1,25 @@
 // 1. Write a while loop to print the numbers 1 through 12.
 
+// let i = 1;
+
+// while (i < 13) {
+//   console.log(i);
+  
+// let i += 1;
+// }
+
 // 2. Write a while loop that prints the phrase "Hafa Adai" 5 times.
 
+// let i = 1
+
+// while (i < 6) {
+//   console.log(i,"Hafa Adai");
+
+//   i += 1
+// }
+
 // 3. Write a while loop that asks the user to enter a village name and will run forever until the user enters the word "Hagåtña".
+
 
 // 4. Write a while loop that prints the temperatures from 75 to 95 degrees, increasing by 2 each time.
 

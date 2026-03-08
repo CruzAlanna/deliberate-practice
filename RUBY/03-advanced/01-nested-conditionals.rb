@@ -4,6 +4,14 @@
 # If the age is between 10 and 64 years old and the package is standard, the price is $45. If the package is premium, the price is $75.
 # If the visitor is 65 years old or older, they get a senior discount: $35 for standard package and $60 for premium package.
 
+age = 32
+package_type = "standard"
+
+if age < 10 
+  puts "Price: FREE"
+elsif age >
+
+
 # 2. Write a program to store the type of beach (public, hotel, or private) and the day of the week (weekday or weekend). Then calculate the parking fee based on the following conditions:
 
 # If the beach is public, parking is always free regardless of the day.
