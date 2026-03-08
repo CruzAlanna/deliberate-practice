@@ -1,4 +1,4 @@
-# Use a variable to store a number, then write a condition that prints "Perfect" if the number is wqual to 25, and prints "Not quite" otherwise.
+# Use a variable to store a number, then write a condition that prints "Perfect" if the number is equal to 25, and prints "Not quite" otherwise.
 
 number = 25
 
@@ -17,3 +17,7 @@ pp fruits
 fruits[1] = "carrot"
 
 pp fruits
+
+# print out "hello"
+
+puts "hello"
